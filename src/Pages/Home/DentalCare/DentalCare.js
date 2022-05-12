@@ -1,5 +1,6 @@
 import React from 'react';
 import dental from '../../../assets/images/treatment.png'
+import PrimaryButton from '../Shared/PrimaryButton/PrimaryButton';
 
 const DentalCare = () => {
     return (
@@ -14,7 +15,7 @@ const DentalCare = () => {
                             functionality of our teeth, and oral aesthetics, translating into the improvement
                             of the beauty of our smile. The dentist who specializes in this type of treatment
                             is often known as a cosmetic dentist.</p>
-                        <button class="btn btn-primary text-white font-bold bg-gradient-to-r from-secondary to-primary">Get Started</button>
+                        <PrimaryButton></PrimaryButton>
                     </div>
                 </div>
             </div>
