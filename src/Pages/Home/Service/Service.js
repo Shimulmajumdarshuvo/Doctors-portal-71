@@ -15,4 +15,4 @@ const Service = ({ service }) => {
     );
 };
 
-export default Service;
+export default Service; 
